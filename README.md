@@ -1,7 +1,12 @@
-## Hi there 👋
 
+
+<h1 align = "center">Buenos dias, Soy Andres Quezada</h1>
+<h2 align = "center">Certificaciones</h2>
 <!--
 **AndrezQuezada/AndrezQuezada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<img src="https://imgur.com/a/knkOlsa">
+
 
 Here are some ideas to get you started:
 
